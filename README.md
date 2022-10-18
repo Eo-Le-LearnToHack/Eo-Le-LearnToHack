@@ -6,7 +6,7 @@
       - Excel VBA, SQL database and queries,  
       - HTML, CSS, Java, Json,  
       - [Draw.io](https://app.diagrams.net/),  
-      - [AppLab](https://code.org/educate/applab)
+      - [AppLab](https://code.org/educate/applab)  
       - RPA  
       - VisualStudio, NotePad++, PyCharm, SciTE4AutoHotkey, PowerShell ISE, Replit  
 - 🌱 I’m currently learning Unit testing in C# and [Replit](https://replit.com/) (webbased IDE)
