@@ -9,7 +9,7 @@
       - [AppLab](https://code.org/educate/applab)  
       - RPA  
       - VisualStudio, NotePad++, PyCharm, SciTE4AutoHotkey, PowerShell ISE, Replit  
-- 🌱 I’m currently learning:
+- 🌱 I’m currently learning:  
       - Unit testing in C#, [Replit](https://replit.com/) (webbased IDE), [GitHub Secret](https://docs.github.com/en/actions/security-guides/encrypted-secrets)
 - 💞️ I’m looking to collaborate on problem solving using Programming.
 - 📫 How to reach me @Eo-Le@hotmail.com  
