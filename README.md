@@ -1,4 +1,4 @@
-# About Me  
+# ```About Me```  
 - 👋 Hi, I’m Dan Nguyen  
 - 👀 I’m interested in  
       - [GitHub](https://docs.github.com/en/get-started/quickstart/github-flow), [Git](https://docs.github.com/en/get-started/quickstart/set-up-git), [MarkDown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
@@ -13,7 +13,7 @@
 - 💞️ I’m looking to collaborate on problem solving using Programming.
 - 📫 How to reach me @Eo-Le@hotmail.com  
   
-## Programming or scripts I have coded  
+## ```Programming or scripts I have coded```  
 ### C#  
 - PasswordManager:  
       - Consoleapp to rember all the users passwords and accounts.  
