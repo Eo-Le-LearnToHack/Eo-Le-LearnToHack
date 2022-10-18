@@ -16,7 +16,7 @@
   
 ## ```Programming or scripts I have coded```  
 <details>
-  <summary>Klik her for at se detaljer</summary>
+  <summary>📁</summary>
   
 ### ```C#```  
 - PasswordManager:  
