@@ -25,7 +25,7 @@
       - Playing PaperRockScissor against a computer, which makes random choice every time.  
 - Method to ensure the running program doens't crash  
       - by introducing validatation of Int, double and string values  
-      - using do while loop and try/catch to makes the program more intelligent  
+      - using do while loop and try/catch to makes the program seems to be intelligent  
 - Small projects:  
       - creating the little multiplication table 1-10 and output the multiplication of choice  
       - creating a pricelist, to-do list, name list and so on.  
