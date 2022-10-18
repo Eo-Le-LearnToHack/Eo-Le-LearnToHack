@@ -14,7 +14,7 @@
 - 📫 How to reach me @Eo-Le@hotmail.com  
   
 ## ```Programming or scripts I have coded```  
-### C#  
+### ```C#```  
 - PasswordManager:  
       - Consoleapp to rember all the users passwords and accounts.  
       - All passwords are encrypted.  
@@ -32,13 +32,13 @@
       - calculating light time and dark time
       - calculating shortes route, calories burnt, is it profitable to tank petrol in DE?
   
-### AHK  
+### ```AHK```  
 - PasswordManager:  
       - Short cuts to websites and directories  
       - Autofill login  
       - Autofill SQL queries  
   
-### Powershell  
+### ```Powershell```  
 - Auto_SavingPDF_And_Printjob:  
       - Auto save PDF files using PDFCreator. Files renames dd.mm.yy.hh.mm.ss. If file exist auto increase with 1++ in file name.  
       - Auto printing by sending print arguments to AcrobatReader 2017  
