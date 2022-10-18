@@ -1,7 +1,4 @@
 ## ```About Me```  
-<details>
-  <summary>Klik her for at se detaljer</summary>
-  
 - 👋 Hi, I’m Dan Nguyen  
 - 👀 I’m interested in  
       - [GitHub](https://docs.github.com/en/get-started/quickstart/github-flow), [Git](https://docs.github.com/en/get-started/quickstart/set-up-git), [MarkDown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
@@ -16,7 +13,6 @@
       - Unit testing in C#, [Replit](https://replit.com/) (webbased IDE), [GitHub Secret](https://docs.github.com/en/actions/security-guides/encrypted-secrets)
 - 💞️ I’m looking to collaborate on problem solving using Programming.
 - 📫 How to reach me @Eo-Le@hotmail.com  
-</details>  
   
 ## ```Programming or scripts I have coded```  
 <details>
