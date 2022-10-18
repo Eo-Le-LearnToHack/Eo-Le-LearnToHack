@@ -27,7 +27,7 @@
       - by introducing validatation of Int, double and string values  
       - using do while loop and try/catch to makes the program seems to be intelligent  
 - Small projects:  
-      - creating the little multiplication table 1-10 and output the multiplication of choice  
+      - creating the little multiplication table 1-10 and output the multiplication table of choice  
       - creating a pricelist, to-do list, name list and so on.  
       - calculating light time and dark time
       - calculating shortes route, calories burnt, is it profitable to tank petrol in DE?
