@@ -15,7 +15,7 @@
   
 ## Programming or scripts I have coded  
 ### C#  
-- PasswordManager:
+- PasswordManager:  
       - Consoleapp to rember all the users passwords and accounts.  
       - All passwords are encrypted.  
       - The master password is encrypted with Hash265.  
@@ -33,18 +33,18 @@
       - calculating shortes route, calories burnt, is it profitable to tank petrol in DE?
   
 ### AHK  
-- PasswordManager:
-      - Short cuts to websites and directories
-      - Autofill login
+- PasswordManager:  
+      - Short cuts to websites and directories  
+      - Autofill login  
       - Autofill SQL queries  
   
-### Powershell
-- Auto_SavingPDF_And_Printjob:
+### Powershell  
+- Auto_SavingPDF_And_Printjob:  
       - Auto save PDF files using PDFCreator. Files renames dd.mm.yy.hh.mm.ss. If file exist auto increase with 1++ in file name.  
       - Auto printing by sending print arguments to AcrobatReader 2017  
       - Auto archiving the file in subfoler yyyy/mm  
 - Gets software versions on multiple (remote) computers incl. the local computer  
-      - Using ping commands to determine if computer is on, off or unrecognise
+      - Using ping commands to determine if computer is on, off or unrecognise  
       - Can get version of OS build.rev., MSO current vers, MSO current outlook, MSO current Excel etc.  
   
   
