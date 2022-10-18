@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dan Nguyen
 - 👀 I’m interested in C#, Python, AHK, HTML, CSS, Java, Json, Powershell, cmd/bat, Excel VBA, SQL database and queries, Git, Draw.io, RPA
-- 🌱 I’m currently learning Unit testing in C#
+- 🌱 I’m currently learning Unit testing in C# and Replit (webbased IDE)
 - 💞️ I’m looking to collaborate on problem solving using Programming.
 - 📫 How to reach me @Eo-Le@hotmail.com
 
