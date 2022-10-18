@@ -2,13 +2,13 @@
 ```  
 - 👋 Hi, I’m Dan Nguyen
 - 👀 I’m interested in  
-      - GitHub, Git, MarkDown
+      - [GitHub]{https://docs.github.com/en/get-started/quickstart/github-flow}, [Git]{https://docs.github.com/en/get-started/quickstart/set-up-git}, [MarkDown]{https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax}
       - C#, Python, AutoHotKey, Powershell, cmd/bat, 
       - Excel VBA, SQL database and queries,
       - HTML, CSS, Java, Json, 
       - Draw.io, 
       - RPA
-- 🌱 I’m currently learning Unit testing in C# and Replit (webbased IDE)
+- 🌱 I’m currently learning Unit testing in C# and [Replit]{https://replit.com/} (webbased IDE)
 - 💞️ I’m looking to collaborate on problem solving using Programming.
 - 📫 How to reach me @Eo-Le@hotmail.com  
 ```
